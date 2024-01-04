@@ -5,6 +5,8 @@ A bit about Myself, I am <b>Ranjan Kumar Gupta</b> and have 1+ year professional
 <h3 align="center"> Passionate Web Developer </h3>
 
 <h3><p align="center"> <img src="https://komarev.com/ghpvc/?username=1999rkgupta&label=Profile%20views&color=63F748&style=flat" alt="RanjanGupta" /> </p></h3>
+
+<br/>
    <div align="center">
 
    <h1>Technical Skills 🛠</h1>
