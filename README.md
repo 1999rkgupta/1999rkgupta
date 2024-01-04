@@ -39,7 +39,7 @@ I believe in implementing the knowledge that we have. Projects play a significan
 |                                          Project Name                                          | Description                                                                                                                                                                                                                                                        |
 | :--------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 |    [My Portfolio Website](https://1999rkgupta.github.io/resume/)     | Portfolio website build using HTML5, CSS3 and JavaScript.                                                                                                                                                                                                  |
-<br/>
+
 <h1 align="center">Let's Get Connected</h1>
 
 <div align="center">
@@ -52,7 +52,7 @@ I believe in implementing the knowledge that we have. Projects play a significan
 </div>
 
 <br/>
-<br/>
+
 <table>
   <tr>
    
