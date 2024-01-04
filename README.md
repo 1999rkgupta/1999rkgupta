@@ -1,9 +1,9 @@
 <h1 align="center" >Hi, I'm <a href="https://www.linkedin.com/in/ranjan-kumar-gupta-585567160/" target="_blank"> Ranjan Kumar Gupta </a></h1>
-<img width="40%" align="right"   src="" >
+<img width="40%" align="right"   src="https://github.com/1999rkgupta/1999rkgupta/blob/main/workbench.svg" >
 
 <h3 align="center"> Passionate Web Developer </h3>
 
-<h3><p align="center"> <img src="https://komarev.com/ghpvc/?username=1999rkgupta&label=Profile%20views&color=6805D3&style=flat" alt="RanjanGupta" /> </p></h3>
+<h3><p align="center"> <img src="https://komarev.com/ghpvc/?username=1999rkgupta&label=Profile%20views&color=63F748&style=flat" alt="RanjanGupta" /> </p></h3>
    <div align="center">
 
    <h1>Technical Skills 🛠</h1>
