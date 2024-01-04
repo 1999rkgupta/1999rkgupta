@@ -6,7 +6,7 @@ A bit about Myself, I am <b>Ranjan Kumar Gupta</b> and have 1+ year professional
 
 <h3><p align="center"> <img src="https://komarev.com/ghpvc/?username=1999rkgupta&label=Profile%20views&color=63F748&style=flat" alt="RanjanGupta" /> </p></h3>
 <br/>
-<br/>
+
 <br/>
    <div align="center">
 
@@ -33,13 +33,13 @@ A bit about Myself, I am <b>Ranjan Kumar Gupta</b> and have 1+ year professional
 </p>
 
 I believe in implementing the knowledge that we have. Projects play a significant role in showcasing your skills. They help in predicting the skills of a person. So let's have a look at my project section.
-
+<br/>
 <h1 align="center">Projects</h1>
 
 |                                          Project Name                                          | Description                                                                                                                                                                                                                                                        |
 | :--------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 |    [My Portfolio Website](https://1999rkgupta.github.io/resume/)     | Portfolio website build using HTML5, CSS3 and JavaScript.                                                                                                                                                                                                  |
-
+<br/>
 <h1 align="center">Let's Get Connected</h1>
 
 <div align="center">
@@ -51,7 +51,8 @@ I believe in implementing the knowledge that we have. Projects play a significan
 
 </div>
 
-
+<br/>
+<br/>
 <table>
   <tr>
    
