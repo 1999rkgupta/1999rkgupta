@@ -1,6 +1,5 @@
 <h1 align="center" >Hi, I'm <a href="https://www.linkedin.com/in/ranjan-kumar-gupta-585567160/" target="_blank"> Ranjan Kumar Gupta </a></h1>
-<img width="40%" align="right"   src="https://github.com/1999rkgupta/1999rkgupta/blob/main/workbench.svg" >
-
+<img width="40%" align="right"   src="https://github.com/1999rkgupta/1999rkgupta/blob/03193437b82d681c9caa24657c4ebec746dc628f/workbench.svg" >
 A bit about Myself, I am <b>Ranjan Kumar Gupta</b> and have 1+ year professional experience in <b>Front End Development</b>, Now, I am focusing on <b>Full Stack Web Development, and Machine Learning </b> but still, wish to explore many fields. ⚡
 
 <h3 align="center"> Passionate Web Developer </h3>
@@ -9,6 +8,7 @@ A bit about Myself, I am <b>Ranjan Kumar Gupta</b> and have 1+ year professional
    <div align="center">
 
    <h1>Technical Skills 🛠</h1>
+
 
 <p align="center"> 
 <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white" />
