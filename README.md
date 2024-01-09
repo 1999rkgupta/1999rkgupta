@@ -72,7 +72,7 @@ I believe in implementing the knowledge that we have. Projects play a significan
    <img
      width="400px"
      align="center"
-     src="https://github-profile-trophy.vercel.app/?username=1999rkgupta&theme=dracula&title=Commit,PullRequest,MultiLanguage,Stars,Followers&column=3&margin-w=15&margin-h=15" 
+     src="https://github-profile-trophy.vercel.app/?username=1999rkgupta&theme=dracula&title=Experience,Commit,PullRequest,MultiLanguage,Stars,Repositories,Followers&column=3&margin-w=15&margin-h=15" 
     />
  </a>
 </p>
