@@ -65,6 +65,14 @@ I believe in implementing the knowledge that we have. Projects play a significan
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=1999rkgupta&theme=dark" alt="Ranjan Gupta" /></p>
   </div>
    
-
+<p align="center" style="text-align: center;">
+  <a href="https://github.com/1999rkgupta">
+   <img
+     width="400px"
+     align="center"
+     src="https://github-profile-trophy.vercel.app/?username=1999rkgupta&theme=dracula&title=Commit,PullRequest,MultiLanguage,Stars,Followers&column=3&margin-w=15&margin-h=15" 
+    />
+ </a>
+</p>
 
 [![GitHub followers](https://img.shields.io/github/followers/1999rkgupta.svg?style=social&label=Follow)](https://github.com/1999rkgupta?tab=followers)
