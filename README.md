@@ -61,11 +61,11 @@ I believe in implementing the knowledge that we have. Projects play a significan
   </tr>
 </table>
 
-<div align="center">
+<div align="">
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=1999rkgupta&theme=dark" alt="Ranjan Gupta" /></p>
   </div>
    
-<p align="center" style="text-align: center;">
+<p align="" style="text-align: center;">
   <a href="https://github.com/1999rkgupta">
    <img
      width="400px"
