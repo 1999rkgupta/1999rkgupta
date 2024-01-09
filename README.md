@@ -24,7 +24,7 @@ A bit about Myself, I am <b>Ranjan Kumar Gupta</b> and have 1+ year professional
  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-white?style=for-the-badge&logo=mongodb&logoColor=4EA94B" />
  <img alt="NodeJs" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
  <img alt="npm" src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
- <img alt="Express.js" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+ <img alt="Express" src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
  <img alt="ReactJs" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
  <img alt="Kubernets" src="https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white" />
  <img alt="firebase" src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" />
@@ -53,13 +53,13 @@ I believe in implementing the knowledge that we have. Projects play a significan
 
 <br/>
 
-<table>
-  <tr>
-   
-<td><img src="https://github-readme-stats.vercel.app/api?username=1999rkgupta&count_private=true&&hide=issues&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Ranjan Gupta" />
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=1999rkgupta&show_icons=true&locale=en&layout=compact&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Ranjan Gupta" /></td>
-  </tr>
-</table>
+ <table align="center" width="100%" height="100%" >
+   <tr>
+     <td> 
+  ![Github stats](https://github-readme-stats.vercel.app/api?username=1999rkgupta&theme=dark&show_icons=true&count_private=true&hide=issues) </td>
+     <td> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1999rkgupta&theme=dark&layout=compact)](https://github.com/1999rkgupta) </td>
+   </tr>
+  </table>
 
 <div align="center">
 <a href="https://github.com/1999rkgupta">
@@ -72,7 +72,7 @@ I believe in implementing the knowledge that we have. Projects play a significan
    <img
      width="400px"
      align="center"
-     src="https://github-profile-trophy.vercel.app/?username=1999rkgupta&theme=dracula&title=Experience,Commit,PullRequest,MultiLanguage,Stars,Repositories,Followers&column=3&margin-w=15&margin-h=15" 
+     src="https://github-profile-trophy.vercel.app/?username=1999rkgupta&theme=onedark&title=Experience,Commit,PullRequest,MultiLanguage,Stars,Repositories,Followers&column=3&margin-w=15&margin-h=15" 
     />
  </a>
 </p>
