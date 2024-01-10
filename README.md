@@ -56,8 +56,16 @@ I believe in implementing the knowledge that we have. Projects play a significan
 <table>
   <tr>
    
-<td><img src="https://github-readme-stats.vercel.app/api?username=1999rkgupta&count_private=true&&hide=issues&show_icons=true&line_height=20&theme=dark" alt="Ranjan Gupta" />
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=1999rkgupta&show_icons=true&locale=en&layout=compact&theme=dark" alt="Ranjan Gupta" /></td>
+<td>
+   <a href="https://github.com/1999rkgupta">
+   <img src="https://github-readme-stats.vercel.app/api?username=1999rkgupta&count_private=true&&hide=issues&show_icons=true&line_height=20&theme=dark" alt="Ranjan Gupta" />
+   </a>
+</td>
+<td>
+    <a href="https://github.com/1999rkgupta">
+   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=1999rkgupta&show_icons=true&locale=en&layout=compact&theme=dark" alt="Ranjan Gupta" />
+    </a>
+</td>
   </tr>
 </table>
 
