@@ -32,7 +32,7 @@ A bit about Myself, I am <b>Ranjan Kumar Gupta</b> and have <b>1+ year</b> profe
  <img alt="VS Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
 </p>
 
-I believe in implementing the knowledge that we have. Projects play a significant role in showcasing your skills. They help in predicting the skills of a person. So let's have a look at my project section.
+I believe in implementing the knowledge that we have. Projects play a significant role in showcasing our skills. They help in predicting the skills of a person. So let's have a look at my project section.
 <br/>
 <h1 align="center">Projects</h1>
 
@@ -46,7 +46,7 @@ I believe in implementing the knowledge that we have. Projects play a significan
 
 <a  href="https://www.linkedin.com/in/ranjan-kumar-gupta-585567160/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://twitter.com/1999rkgupta" target="_blank"><img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white&alt=twitter" /></a>
-<a href="mailto:1999rkgupta@gmail.com"><img  alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<a href="mailto:1999rkgupta@gmail.com" target="_blank"><img  alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 </div>
