@@ -1,4 +1,4 @@
-<h1 align="center" > Hi, I'm <a href="https://www.linkedin.com/in/ranjan-kumar-gupta-585567160/" target="_blank"><b> Ranjan Kumar Gupta </b></a></h1>
+<h1 align="center" > Hi, I'm <a href="https://www.linkedin.com/in/ranjan-kumar-gupta-585567160/" target="_blank"> <b> Ranjan Kumar Gupta </b></a></h1>
 <img width="36%" align="right"   src="https://github.com/1999rkgupta/1999rkgupta/blob/main/workbench.svg" >
 A bit about Myself, I am <b>Ranjan Kumar Gupta</b> and have <b>1+ year</b> professional experience in <b>Front End Development</b>, Now, I am focusing on <b>Full Stack Web Development, and Machine Learning </b> but still, wish to explore many fields.
 
