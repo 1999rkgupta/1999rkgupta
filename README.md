@@ -10,7 +10,7 @@ A bit about Myself, I am <b>Ranjan Kumar Gupta</b> and have <b>1+ year</b> profe
 <br/>
    <div align="center">
 
-   <h1>Technical Skills 🛠</h1>
+   <h1>Technical Skills 🛠 </h1>
 
 
 <p align="center"> 
